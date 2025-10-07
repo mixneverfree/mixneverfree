@@ -16,14 +16,15 @@
 
 ### 🚀 Tecnologias que uso
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<p align="center" style="margin-top: 10px; margin-bottom: 30px;">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" style="margin: 5px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="40" style="margin: 5px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="40" style="margin: 5px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40" style="margin: 5px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40" style="margin: 5px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" style="margin: 5px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
 </p>
+
 
 ---
 
