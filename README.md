@@ -1,44 +1,28 @@
-<!-- Banner Naruto-style title -->
-<!-- Naruto-style title (embutido como SVG) -->
-<h1 align="center">
-  <img src="https://fonts.cdnfonts.com/s/12980/ninja-naruto.woff" rel="stylesheet">
-  <span style="
-    font-family: 'Ninja Naruto', sans-serif;
-    font-size: 70px;
-    background: linear-gradient(90deg, #ffffff, #c09fff, #000000);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-shadow: 0 0 25px #b19fff, 0 0 50px #00000080;
-    display: inline-block;
-    letter-spacing: 3px;
-  ">
-    Mix
-  </span>
-</h1>
+<h1 align="center">🌀 Bem-vindo(a) ao meu Dojo Ninja! 🌀</h1>
+<p align="center"><i>"Aqueles que não entendem a dor nunca poderão conhecer a verdadeira paz."</i> — Pain</p>
 
-
-<!-- (o resto do README segue aqui...) -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/14/9d/3f/149d3f1392d6fa1d33d7f1d64c3f90e2.gif" width="250" />
+</div>
 
 ---
 
-### 🌌 About Me
-- 👾 Developer exploring the balance between creation and destruction.  
-- 🌙 Inspired by the divine energy of the Ōtsutsuki.  
-- 🧠 Focused on fullstack web apps, automation and creative UI design.  
-- ⚡ Currently building: [**Cosmos Marketplace**](https://github.com/mixneverfree/Cosmos)
+## 🧠 Sobre mim
+
+- 🏯 Vila Oculta: Vila da Folha 🌿 (Konohagakure)
+- 🥷 Classe Ninja: Desenvolvedor Jounin
+- 💻 Habilidades: HTML | CSS | JavaScript | React | Node.js
+- 🔭 Atualmente treinando para dominar o modo sábio em: **Next.js & TypeScript**
 
 ---
 
-### 💠 Skills & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github,vscode&perline=6" />
-</p>
+## 🍥 Meus Jutsus favoritos
 
----
+```js
+function rasengan(chakra) {
+  return chakra * poderDeConcentracao;
+}
 
-### 🌀 Chakra Stats
-```yaml
-Chakra: Infinite
-Nature: Yin-Yang
-Mode: Sage of Code
-Focus: Creation of Digital Dimensions
+function chidori(user) {
+  return user.velocidade >= 200 ? "Ataque perfeito ⚡" : "Melhore sua velocidade!";
+}
