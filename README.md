@@ -1,12 +1,11 @@
-<!-- Banner -->
+<!-- Banner Naruto-style title -->
 <p align="center">
-  <img src="https://i.imgur.com/ylXzG8U.gif" width="650" alt="Kaguya energy portal" />
+  <img src="https://fontmeme.com/permalink/241007/6e1c5f65f1c93c38279f977821c529e3.png" alt="Mix | The Ōtsutsuki of Code" width="500">
 </p>
 
-<h1 align="center">👁️ Mix | The Ōtsutsuki of Code</h1>
-
 <p align="center">
-  <i>“The void whispers in binary — and I listen.”</i>
+  <i>“Silence of the cosmos, echo of creation.”</i><br>
+  <i>“Silêncio do cosmos, eco da criação.”</i>
 </p>
 
 ---
