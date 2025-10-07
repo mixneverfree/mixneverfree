@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Desenvolvedor Full Stack | Apaixonado por criar soluções inovadoras 🚀
+  Desenvolvedor Iniciante | Em processo de aprendizagem 🚀
 </p>
 
 ---
