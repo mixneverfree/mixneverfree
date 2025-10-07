@@ -1,4 +1,4 @@
-<p align="center">
+<p align="start">
   <img src="assets/mix-otsutsuki.png" alt="Mix" width="200px" />
 </p>
 
