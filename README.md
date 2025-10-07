@@ -8,8 +8,6 @@
   </h1>
 </p>
 
----
-
 <p align="center">
   Beginner Developer | In learning process 🚀
 </p>
