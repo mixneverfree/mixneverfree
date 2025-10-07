@@ -18,9 +18,8 @@
     <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,github&perline=6"></a>
 </div>
 
-<div>
   <h2 align="center"> 🌌 Featured Project</h2>
-<div align="start">
+<div align="center">
   <img src="assets/Cosmos.png" style="width: 48px">
 </div>
 
