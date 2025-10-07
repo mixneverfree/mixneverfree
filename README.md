@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="caminho/para/sua-imagem.svg" alt="Mix" width="200px" />
+</p>
+
 <h1 align="center">🌀 Bem-vindo(a) ao meu Dojo Ninja! 🌀</h1>
 <p align="center"><i>"Aqueles que não entendem a dor nunca poderão conhecer a verdadeira paz."</i> — Pain</p>
 
