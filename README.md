@@ -23,7 +23,7 @@
 
 ---
 
-### 🌌 Projeto em destaque
+<h3 align="center">🌌 Projeto em destaque</h3>
 
 <p align="center">
   <img src="assets/Cosmos.png" style="width: 48px">
