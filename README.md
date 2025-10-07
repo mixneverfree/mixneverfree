@@ -12,7 +12,7 @@
   Beginner Developer | In learning process 🚀
 </p>
 
-<h3 align="center">🚀 Technologies</h3>
+## <h3 align="center">🚀 Technologies</h3>
 
 
 
@@ -20,7 +20,7 @@
     <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,github&perline=6"></a>
 </div>
 
-<h3 align="center">🌌 Featured Project</h3>
+## <h3 align="center">🌌 Featured Project</h3>
 
 <p align="center">
   <img src="assets/Cosmos.png" style="width: 48px">
