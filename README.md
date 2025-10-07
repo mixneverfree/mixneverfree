@@ -3,7 +3,7 @@
 </p>
 
 <p align="start">
-  <h1 align="center" style="background: linear-gradient(90deg, #FFFFFF, #B497D6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  <h1 align="start" style="background: linear-gradient(90deg, #FFFFFF, #B497D6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     Hi there, I'm Mix! 👋
   </h1>
 </p>
