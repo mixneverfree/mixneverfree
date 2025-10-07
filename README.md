@@ -17,7 +17,7 @@
 <h3 align="center">🚀 Tecnologias que uso</h3>
 
 <div align="center">
-    <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,cs,postgres,git,vscode,visualstudio,azure,postman,githubactions,github,docker,selenium,grafana,prometheus&perline=6"></a>
+    <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,github&perline=6"></a>
 </div>
 
 
