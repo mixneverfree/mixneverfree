@@ -25,8 +25,4 @@
 </p>
 </div>
 
-<p align="start" style="max-width: 400px; margin: auto;">
-  <b>Cosmos Marketplace</b> is a next-gen digital marketplace focused on immersive, cosmic-themed user experiences. It brings together futuristic design, strong performance, and secure user interaction.
-</p>
-
 ---
