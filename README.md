@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="caminho/para/sua-imagem.svg" alt="Mix" width="200px" />
+  <img src="mix-otsutsuki.png" alt="Mix" width="200px" />
 </p>
 
 <h1 align="center">🌀 Bem-vindo(a) ao meu Dojo Ninja! 🌀</h1>
