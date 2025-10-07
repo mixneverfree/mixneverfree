@@ -9,10 +9,23 @@
 
 ## 🧠 Sobre mim
 
-- 🏯 Vila Oculta: Vila da Folha 🌿 (Konohagakure)
-- 🥷 Classe Ninja: Desenvolvedor Jounin
-- 💻 Habilidades: HTML | CSS | JavaScript | React | Node.js
-- 🔭 Atualmente treinando para dominar o modo sábio em: **Next.js & TypeScript**
+- 🏯 Vila Oculta: Vila da Folha (Konohagakure)  
+- 🥷 Classe Ninja: Desenvolvedor Jounin  
+- 💻 Habilidades: HTML | CSS | JavaScript | React | Node.js | Next.js  
+- 🔭 Atualmente treinando para dominar o modo sábio em: **TypeScript, GraphQL & DevOps**
+
+---
+
+## 🌌 Cosmos Marketplace
+
+Meu projeto principal: **Cosmos Marketplace** — um ambiente onde universos colidem e você pode explorar, comprar e vender itens (ou NFTs, ou objetos digitais, etc).  
+**Visite o site:** [Cosmos Marketplace](https://seucosmosmarketplace.com) *(troque para a URL real)*
+
+### Destaques do Cosmos
+- 🚀 Interface elegante e futurista
+- 🔐 Autenticação segura e criptografia
+- ⚖️ Sistema de listagem e busca avançada  
+- 💡 Possível integração com blockchain / smart contracts (ou o que você planeja)
 
 ---
 
