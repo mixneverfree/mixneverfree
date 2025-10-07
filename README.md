@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mix-otsutsuki.png" alt="Mix" width="200px" />
+  <img src="assets/mix-otsutsuki.png" alt="Mix" width="200px" />
 </p>
 
 <p align="center">
@@ -26,8 +26,7 @@
 ### 🌌 Projeto em destaque
 
 <p align="center">
-  <a href="https://cosmosmarketplace.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Cosmos_Marketplace-%23007ACC.svg?style=for-the-badge&logo=appveyor&logoColor=white" alt="Cosmos Marketplace" />
+  <img src="assets/Cosmos.png">
   </a>
 </p>
 
