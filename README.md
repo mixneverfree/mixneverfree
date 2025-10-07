@@ -13,7 +13,7 @@
 </p>
 
 <div>
-<h2>🚀 Technologies</h2>
+<h2 align="center">🚀 Technologies</h2>
 <div align="center">
     <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,github&perline=6"></a>
 </div>
