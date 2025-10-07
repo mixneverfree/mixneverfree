@@ -20,7 +20,9 @@
 
   <h2 align="start"> 🌌 Featured Project</h2>
 <div align="start">
-  <img src="assets/Cosmos.png" style="width: 48px">
+  <img src="assets/Cosmos.png" style="width: 48px"> <p>
+  <b>Cosmos Marketplace</b> is a next-gen digital marketplace focused on immersive, cosmic-themed user experiences. It brings together futuristic design, strong performance, and secure user interaction.
+</p>
 </div>
 
 <p align="start" style="max-width: 400px; margin: auto;">
