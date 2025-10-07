@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/YJgW7E2.gif" width="600" alt="Ōtsutsuki Energy" />
+  <img src="https://i.imgur.com/ylXzG8U.gif" width="650" alt="Kaguya energy portal" />
 </p>
 
 <h1 align="center">👁️ Mix | The Ōtsutsuki of Code</h1>
@@ -21,7 +21,7 @@
 
 ### 💠 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github,vscode&perline=6" />
 </p>
 
 ---
