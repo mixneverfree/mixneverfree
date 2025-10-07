@@ -22,7 +22,7 @@
 
 ## 🌌 Featured Project
 
-<p align="center">
+<p align="start">
   <img src="assets/Cosmos.png" style="width: 48px">
   </a>
 </p>
