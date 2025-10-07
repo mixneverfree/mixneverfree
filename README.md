@@ -12,7 +12,7 @@
   Beginner Developer | In learning process 🚀
 </p>
 
-<h3 align="center"> 🚀 Technologies</h3>
+<h3 align="center">## 🚀 Technologies</h3>
 
 
 
