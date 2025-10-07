@@ -26,7 +26,7 @@
 ### 🌌 Projeto em destaque
 
 <p align="center">
-  <img src="assets/Cosmos.png" style="width: 32px">
+  <img src="assets/Cosmos.png" style="width: 48px">
   </a>
 </p>
 
