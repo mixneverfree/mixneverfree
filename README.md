@@ -18,12 +18,11 @@
     <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,github&perline=6"></a>
 </div>
 
-## 🌌 Featured Project
-
-<p align="start">
+<div>
+  <h2 align="center"> 🌌 Featured Project</h2>
+<div align="start">
   <img src="assets/Cosmos.png" style="width: 48px">
-  </a>
-</p>
+</div>
 
 <p align="center" style="max-width: 600px; margin: auto;">
   <b>Cosmos Marketplace</b> is a next-gen digital marketplace focused on immersive, cosmic-themed user experiences. It brings together futuristic design, strong performance, and secure user interaction.
