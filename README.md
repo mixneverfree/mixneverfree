@@ -12,7 +12,7 @@
   Beginner Developer | In learning process 🚀
 </p>
 
-<h3 align="center">🚀 Technologies</h3>
+## 🚀 Technologies align="center"
 <div align="center">
     <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,github&perline=6"></a>
 </div>
