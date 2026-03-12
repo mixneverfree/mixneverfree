@@ -12,7 +12,6 @@
   Beginner Developer | In learning process 🚀
 </p>
 
----
 <h2 align="start">🚀 Technologies</h2>
 <div align="start">
     <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,github&perline=6"></a>
